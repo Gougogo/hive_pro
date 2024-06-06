@@ -39,7 +39,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.goumi.hiveudf.GenericUDFArrayDistinct</mainClass>
+                            <mainClass>com.gou.hiveudf.GenericUDFArrayDistinct</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
