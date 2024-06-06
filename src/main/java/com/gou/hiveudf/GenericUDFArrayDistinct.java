@@ -18,7 +18,7 @@ import java.io.Serializable;
 import java.util.stream.Collectors;
 
 @Description(name = "array_distinct",
-        value = "FUNC(n0) - Creates an union of array with the given arrays ")
+        value = "FUNC(n0) - Creates an distinct of array with the given arrays ")
 public class GenericUDFArrayDistinct extends GenericUDF implements Serializable {
     private transient ListObjectInspector inputOI;
 
